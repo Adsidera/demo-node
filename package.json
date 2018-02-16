@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Freecodecamp tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Anna",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "demo-node"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
